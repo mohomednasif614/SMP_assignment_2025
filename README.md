@@ -8,6 +8,15 @@ Project Overview
 
 This project implements a 0–9 decimal up counter using D flip-flops in an asynchronous (ripple) configuration. The circuit includes automatic reset at count 9, manual reset, pause/resume control, and a 7-segment display.
 
+### Project Photos  
+
+### PCB Design  
+![PCB Design](smpphoto1.png)
+
+### Circuit Simulation  
+![Simulation](smpphoto2.png)
+
+
 Key Features
 
 Counter: 4-bit ripple counter using 74HC74 D flip-flops
