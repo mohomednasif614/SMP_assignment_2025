@@ -2,8 +2,7 @@
 
 ### 1-Digit Decimal Up Counter (0–9) Using D Flip-Flops
 
-By: IT23690370 – W A Elisha Y Perera
-    IT23736900 – M Nasif
+By: IT23690370 – W A Elisha Y Perera | IT23736900 – M Nasif
 
 ### Project Overview
 
