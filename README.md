@@ -1,4 +1,4 @@
-                                         IE2044 – System Modelling And Prototyping
+                                  IE2044 – System Modelling And Prototyping
 
 ### 1-Digit Decimal Up Counter (0–9) Using D Flip-Flops
 
