@@ -1,4 +1,4 @@
-IE2044 – System Modelling And Prototyping
+                          IE2044 – System Modelling And Prototyping
 
 1-Digit Decimal Up Counter (0–9) Using D Flip-Flops
 
@@ -15,6 +15,7 @@ Clock: NE555 timer (~1.5 Hz for visible counting)
 Display: 7-segment (FJ5161BH) driven by SN74LS47 decoder
 Controls: Manual reset button + Pause/Resume switch
 Auto-Reset: Automatically resets at count 9 using NAND logic
+
 📁 Files in This Repository
 
 IE2044_Assignment_Group_6.docx – Full assignment report with diagrams and simulation results
